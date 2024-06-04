@@ -1,4 +1,4 @@
-# BYU_EOSCTF_winter2024
+# BYU_Winter2024EndOfSemesterCTF
 BYU End of Semester Capture the Flag Winter 2024 Competition. This was my first ever CTF, I placed 9th out of ~56 competitors. I spent about 35 hours working on it during the 48-hour competition period.
 
 ## Experience
